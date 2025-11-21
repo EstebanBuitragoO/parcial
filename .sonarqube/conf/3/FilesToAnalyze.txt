@@ -1,0 +1,8 @@
+﻿C:\Users\Esteban\Downloads\Parcial\Parcial\src\WebApi\Controllers\OrdersController.cs
+C:\Users\Esteban\Downloads\Parcial\Parcial\src\WebApi\Program.cs
+C:\Users\Esteban\Downloads\Parcial\Parcial\src\WebApi\obj\Debug\net8.0\WebApi.GlobalUsings.g.cs
+C:\Users\Esteban\Downloads\Parcial\Parcial\src\WebApi\obj\Debug\net8.0\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+C:\Users\Esteban\Downloads\Parcial\Parcial\src\WebApi\obj\Debug\net8.0\WebApi.AssemblyInfo.cs
+C:\Users\Esteban\Downloads\Parcial\Parcial\src\WebApi\appsettings.Development.json
+C:\Users\Esteban\Downloads\Parcial\Parcial\src\WebApi\appsettings.json
+C:\Users\Esteban\Downloads\Parcial\Parcial\src\WebApi\Properties\launchSettings.json

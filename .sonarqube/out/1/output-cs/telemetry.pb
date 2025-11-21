@@ -1,0 +1,1 @@
+cRMC:\Users\Esteban\Downloads\Parcial\Parcial\src\Application\Application.csproj¢net8.0òCSharp12
